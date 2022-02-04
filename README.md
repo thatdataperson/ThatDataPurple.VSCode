@@ -1,2 +1,2 @@
 # ThatDataPurple
-A purple theme for VS Code from That Data Person Limited.
+A purple theme for VS Code made with love by That Data Person Limited.
