@@ -2,7 +2,7 @@
     "name": "thatdatapurple",
     "displayName": "ThatDataPurple",
     "description": "A purple theme for VS Code made with love by That Data Person Limited.",
-    "version": "2022.02.01",
+    "version": "2022.2.1",
     "engines": {
         "vscode": "^1.64.0"
     },
@@ -22,7 +22,7 @@
 		"type": "git",
 		"url": "https://github.com/thatdataperson/ThatDataPurple.VSCode.git"
 	},
-    "icon": "./images/ThatDataPurple.icon.png",
+    "icon": "images/ThatDataPurple.icon.png",
     "galleryBanner": {
         "color": "#4320CC",
         "theme": "dark"
