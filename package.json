@@ -1,0 +1,21 @@
+{
+    "name": "thatdatapurple",
+    "displayName": "ThatDataPurple",
+    "description": "A purple theme for VS Code from That Data Person Limited.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ThatDataPurple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ThatDataPurple-color-theme.json"
+            }
+        ]
+    }
+}
