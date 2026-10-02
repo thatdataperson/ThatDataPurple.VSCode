@@ -24,7 +24,7 @@
 	},
     "icon": "images/ThatDataPurple.icon.png",
     "galleryBanner": {
-        "color": "#4320CC",
+        "color": "#0D0629",
         "theme": "dark"
     },
     "homepage": "https://github.com/thatdataperson/ThatDataPurple.VSCode",

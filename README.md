@@ -12,7 +12,7 @@ Every text colour meets WCAG 2.2 AA (at least 4.5:1) against the editor backgrou
 ## Supported Versions
 - Visual Studio Code
 - Visual Studio 2019 is supported in [ThatDataPurple.VS2019](https://github.com/thatdataperson/ThatDataPurple.VS2019)
-- Visual Studio 2022 is supported in [ThatDataPurple.VS2022](https://github.com/thatdataperson/ThatDataPurple.VS2022)
+- Visual Studio 2022 and 2026 are supported in [ThatDataPurple.VS2022](https://github.com/thatdataperson/ThatDataPurple.VS2022)
 
 ## Install
 - Search for ThatDataPurple in Extensions
