@@ -1,5 +1,5 @@
 # ThatDataPurple.VSCode
-A purple theme for VS Code made with love by That Data Person Limited.
+A purple theme for VS Code in the That Data Person brand colours, by That Data Person Limited.
 
 ## Screenshot
 ![Screenshot of ThatDataPurple theme applied to Visual Studio Code](https://github.com/thatdataperson/ThatDataPurple.VSCode/blob/main/images/ThatDataPurple.preview.png?raw=true)
